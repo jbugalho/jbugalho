@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to my profile!</h1>
 
 ###
 
-<p align="left">My name is João and I'm a Developer, from Portugal</p>
+<p align="left">My name is João and I'm 23 years old from Portugal</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Ruby<br>🎯 Goals: Be a better dev every day<br>🎲 Fun fact: I use vim btw</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Ruby<br>🎯 Goals: Be a better person every day<br>🎲 Fun fact: I use vim btw</p>
 
 ###
 
@@ -18,6 +18,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,rust,lua,c,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,rust,lua,c,ts,ruby,scala,python)](https://skillicons.dev)
 
 ###
